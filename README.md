@@ -1,6 +1,7 @@
 # bytebank
 
-A new Flutter project.
+Um projeto da Formação Flutter da Alura
+- [Link do Curso](https://cursos.alura.com.br/course/flutter-fundamentos)
 
 ## Getting Started
 
